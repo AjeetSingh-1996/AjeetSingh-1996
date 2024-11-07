@@ -1,4 +1,4 @@
-👋 Hi, I’m @AjeetSingh-1996
+👋 Hi, I’m @AjeetSingh
 👀 I’m interested in cloud technologies, automation, and DevOps tools.
 🌱 I’m currently mastering Docker, Kubernetes, and Prometheus to enhance my DevOps skills.
 💞️ I’m looking to collaborate on Azure-based CI/CD pipelines, cloud infrastructure automation, and scalable application deployments.
